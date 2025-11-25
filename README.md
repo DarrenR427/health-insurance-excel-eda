@@ -21,13 +21,13 @@ This project demonstrates foundational analytical skills required for business a
 **Columns:** 7  
 
 **Features:**
-- **age** – Policyholder age  
-- **sex** – Male/Female  
-- **bmi** – Body mass index  
-- **children** – Number of dependents  
-- **smoker** – Yes/No  
-- **region** – U.S. region  
-- **charges** – Insurance cost  
+- **Age** – Policyholder age  
+- **Sex** – Male/Female  
+- **Bmi** – Body mass index  
+- **Children** – Number of dependents  
+- **Smoker** – Yes/No  
+- **Region** – U.S. region  
+- **Charges** – Insurance cost  
 
 ---
 
